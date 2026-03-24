@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPEiVkbebgw=",
+  "success": true,
+  "projectFilePath": "C:\\diplom2\\diplom2\\diplom2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akhad\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\akhad\\.nuget\\packages\\packetdotnet\\1.0.3\\packetdotnet.1.0.3.nupkg.sha512",
+    "C:\\Users\\akhad\\.nuget\\packages\\sharppcap\\5.1.0\\sharppcap.5.1.0.nupkg.sha512",
+    "C:\\Users\\akhad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\akhad\\.nuget\\packages\\system.text.encoding.codepages\\10.0.5\\system.text.encoding.codepages.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

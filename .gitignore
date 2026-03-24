@@ -1,0 +1,42 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.ide
+*.nupkg
+packages/
+TestResults/
+*.log
+*.vsconfig
+*.cache
+*.db
+*.pfx
+secrets.json
+.env
+NetworkReport.txt
+# Rider/Resharper
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Visual Studio Code
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Ignore generated files
+*/bin/
+*/obj/
+
+# Do not commit credentials or API keys
+**/MainForm.cs
+# If you want to commit MainForm.cs, remove the above line after
+# moving any API keys into environment variables or user secrets.

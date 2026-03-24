@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "System.Text.Encoding.CodePages/10.0.5": {
+        "runtime": {
+          "lib/net8.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Text.Encoding.CodePages/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XjJQDlI3ZcuhiVS5PELE+baWk4BWjxXWcojj4H7y+moVKcAxj8jgra6JQvGOKoWpA/TPDqULxTxwM/ZolErl+w==",
+      "path": "system.text.encoding.codepages/10.0.5",
+      "hashPath": "system.text.encoding.codepages.10.0.5.nupkg.sha512"
+    }
+  }
+}

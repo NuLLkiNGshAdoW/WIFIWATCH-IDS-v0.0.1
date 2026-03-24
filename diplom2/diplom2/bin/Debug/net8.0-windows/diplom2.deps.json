@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "diplom2/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4",
+          "PacketDotNet": "1.0.3",
+          "SharpPcap": "5.1.0",
+          "System.Text.Encoding.CodePages": "10.0.5"
+        },
+        "runtime": {
+          "diplom2.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.4": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.4.30916"
+          }
+        }
+      },
+      "PacketDotNet/1.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/PacketDotNet.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "SharpPcap/5.1.0": {
+        "dependencies": {
+          "PacketDotNet": "1.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpPcap.dll": {
+            "assemblyVersion": "5.1.0.0",
+            "fileVersion": "5.1.0.0"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/10.0.5": {
+        "runtime": {
+          "lib/net8.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "diplom2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
+      "path": "newtonsoft.json/13.0.4",
+      "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
+    },
+    "PacketDotNet/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-as2yA4KwFRJNU8PxvddZO2SkhLPcoUtIGP/eGLMQEce483DKlE4GzqT28rj9iUso6jihvILD1iNw13TtUN1nGQ==",
+      "path": "packetdotnet/1.0.3",
+      "hashPath": "packetdotnet.1.0.3.nupkg.sha512"
+    },
+    "SharpPcap/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-INqQi8KGANmVIJyPS/iGdqbF6AA2030egIEbhT6p0CNryjC6+z8AdDEnSTmSQHj3veqf0SXfCB3JDe5NG4PNdQ==",
+      "path": "sharppcap/5.1.0",
+      "hashPath": "sharppcap.5.1.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XjJQDlI3ZcuhiVS5PELE+baWk4BWjxXWcojj4H7y+moVKcAxj8jgra6JQvGOKoWpA/TPDqULxTxwM/ZolErl+w==",
+      "path": "system.text.encoding.codepages/10.0.5",
+      "hashPath": "system.text.encoding.codepages.10.0.5.nupkg.sha512"
+    }
+  }
+}
