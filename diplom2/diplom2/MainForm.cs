@@ -60,11 +60,11 @@ namespace diplom2
         private int totalCount = 0, safeCount = 0, warnCount = 0, dangerCount = 0;
 
         // ── Gemini
-        private const string MyGeminiKey = "AIzaSyByH9wXcZw7XrmljAO9NY8pnttiQKarOIg";
-        private const string ApiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=";
+        private const string MyGeminiKey = "АПИ ключ";
+        private const string ApiUrl = "здесь пишите апи урл";
 
         // ── White-list
-        private List<string> whiteList = new() { "00:50:56", "B4:B5:B6", "6C:72:E2" };
+        private List<string> whiteList = new() { " Белый листь наши апи адреса" };
 
         // ── Theme
         private static readonly Color BG = Color.FromArgb(13, 17, 23);
